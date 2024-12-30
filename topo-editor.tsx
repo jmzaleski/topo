@@ -1,3 +1,6 @@
+// this is Claude generated code using React/native SVG code
+// Claude can't run Kanva or FabricJS code
+
 import React, { useState, useRef } from 'react';
 import { AlertCircle } from 'lucide-react';
 

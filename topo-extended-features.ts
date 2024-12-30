@@ -1,3 +1,6 @@
+// this is Claude generated code ostensibly showing how to use konva
+// for extended (social?) features
+
 // 1. Labels and Hover Effects
 // TopoLabel.tsx
 import { Text, Group, Tag, Label as KonvaLabel } from 'react-konva';

@@ -1,3 +1,6 @@
+// this is Claude generated code ostensibly showing how to use konva
+// for basic drawing features
+
 // Main Stage Component
 // TopoStage.tsx
 import React from 'react';
